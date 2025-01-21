@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahror9312
+- 👋 Hi, I’m @Ahror
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on with Zarasoft
